@@ -1,61 +1,4 @@
 #pagebreak()
-= This is Question 1
-
-== Code
-```
-choice = "yes"
-while choice.lower() == "yes":
-    principal_amount = float(input("Enter the Principal Amount(Rs.): "))
-    rate = float(input("Enter the Rate Amount(%): "))
-    time = float(input("Enter the Time(in years): "))
-
-    simple_interest = (principal_amount*rate*time)/100
-    print("The simple interest on the given amount is Rs.", simple_interest)
-
-    choice = input("Do you want to continue(yes/no): ")
-
-
-```
-== Output
-```
-{{code_output}}
-```
-
-
-#pagebreak()
-= This is Question 2
-
-== Code
-```
-for num in range(1,11):
-    print(num)
-
-```
-== Output
-```
-{{code_output}}
-```
-
-
-#pagebreak()
-= This is Question 3
-
-== Code
-```
-
-fruit_list = ["Apple", "Banana", "Cherry", "Mango", "Guava", "Pinapple"]
-
-for fruit in fruit_list:
-    print(fruit)
-
-```
-== Output
-```
-{{code_output}}
-```
-
-
-#pagebreak()
 = This is Question 4
 
 == Code
@@ -67,7 +10,17 @@ print("The Third Character of the String is: ", user_input[2])
 ```
 == Output
 ```
-{{code_output}}
+Enter the Principal Amount(Rs.): 900
+Enter the Rate Amount(%): 12
+Enter the Time(in years): 2
+The simple interest on the given amount is Rs. 216.0
+Do you want to continue(yes/no): yes
+Enter the Principal Amount(Rs.): 900
+Enter the Rate Amount(%): 6
+Enter the Time(in years): 4
+The simple interest on the given amount is Rs. 216.0
+Do you want to continue(yes/no): no
+
 ```
 
 
@@ -90,7 +43,24 @@ print(new_string)
 ```
 == Output
 ```
-{{code_output}}
+Enter Student Name: Arpit
+Enter Roll Number: 900
+
+Enter Marks for 3 Subjects:
+Subject 1: 90
+Subject 2: 34
+Subject 3: 99
+
+========= STUDENT RESULT =========
+Name        : Arpit
+Roll Number : 900
+----------------------------------
+Marks: 90.0, 34.0, 99.0
+Total Marks : 223.0
+Percentage  : 74.33%
+==================================
+
+
 ```
 
 
@@ -114,7 +84,37 @@ else:
 ```
 == Output
 ```
-{{code_output}}
+Enter Customer Name: A Gaurav
+Enter Customer Mobile: 9839992323
+
+------ RESTAURANT MENU ------
+Burger : Rs. 120
+Pizza : Rs. 250
+Pasta : Rs. 180
+Sandwich : Rs. 90
+Coffee : Rs. 60
+-----------------------------
+
+Enter items to order. Type 'done' to finish.
+
+Enter item name: Pizza
+Enter quantity: Co  1
+Enter item name: Coffee
+Enter quantity: 2
+Enter item name: done
+
+========== ORDER RECEIPT ==========
+Customer Name   : Gaurav
+Mobile Number   : 9839992323
+------------------------------------
+Items Ordered:
+Pizza x 1 = Rs. 250
+Coffee x 2 = Rs. 120
+------------------------------------
+Total Bill      : Rs. 370
+====================================
+
+
 ```
 
 
@@ -163,7 +163,49 @@ for i in range(5):
 ```
 == Output
 ```
-{{code_output}}
+Enter Employee Name: Arpit Shraddhansh
+Enter Employee ID: 283
+
+--- Regular Employee Details ---
+Enter Basic Salary: 90000
+Enter HRA: 233 33
+Enter DA: 900
+
+------------------------------------
+        Regular Employee Salary Receipt
+------------------------------------
+Employee Name : Arpit Shraddhansh
+Employee ID   : 283
+Salary        : Rs. 93233.0
+------------------------------------
+
+
+--- Contractual Employee Details ---
+Enter Monthly Pay: 8900
+Enter Bonus: 890
+
+------------------------------------
+        Contractual Employee Salary Receipt
+------------------------------------
+Employee Name : Arpit Shraddhansh
+Employee ID   : 283
+Salary        : Rs. 9790.0
+------------------------------------
+
+
+--- Daily-Wages Employee Details ---
+Enter Number of Days Worked: 32 0
+Enter Rate Per Day: 900
+
+------------------------------------
+        Daily-Wages Employee Salary Receipt
+------------------------------------
+Employee Name : Arpit Shraddhansh
+Employee ID   : 283
+Salary        : Rs. 27000.0
+------------------------------------
+
+
 ```
 
 
@@ -213,7 +255,17 @@ print("Today we have done one task")
 ```
 == Output
 ```
-{{code_output}}
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
 ```
 
 
@@ -248,7 +300,13 @@ with open("kmc.txt", "r") as f:
 ```
 == Output
 ```
-{{code_output}}
+Apple
+Banana
+Cherry
+Mango
+Guava
+Pinapple
+
 ```
 
 
@@ -303,7 +361,10 @@ obj.display()
 ```
 == Output
 ```
-{{code_output}}
+Enter the String: Hello
+The First Character of the String is:  H
+The Third Character of the String is:  l
+
 ```
 
 
@@ -393,7 +454,9 @@ order.print_receipt()
 ```
 == Output
 ```
-{{code_output}}
+This is 
+This is
+
 ```
 
 
@@ -463,7 +526,9 @@ dw.print_receipt("Daily-Wages Employee", dw_salary)
 ```
 == Output
 ```
-{{code_output}}
+Enter the String: Arpit
+The user input doesn't contain the word 'KMC'
+
 ```
 
 

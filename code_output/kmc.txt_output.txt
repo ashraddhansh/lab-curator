@@ -1,0 +1,7 @@
+Script started on 2026-02-18 21:08:28+05:30 [COMMAND="python3 /home/grayscaledev/Developer/github.com/lab-curator/code/kmc.txt" TERM="tmux-256color" TTY="/dev/pts/2" COLUMNS="186" LINES="41"]
+  File [35m"/home/grayscaledev/Developer/github.com/lab-curator/code/kmc.txt"[0m, line [35m2[0m
+    It is situated in Lucknow, Uttar PradeshIt[1;31m'[0ms a state UniversityIt has many courses related to law, pharmacy, engineering, humanities, languages etc
+                                              [1;31m^[0m
+[1;35mSyntaxError[0m: [35munterminated string literal (detected at line 2)[0m
+
+Script done on 2026-02-18 21:08:28+05:30 [COMMAND_EXIT_CODE="1"]

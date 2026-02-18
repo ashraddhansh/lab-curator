@@ -1,0 +1,45 @@
+Script started on 2026-02-18 21:06:49+05:30 [COMMAND="python3 /home/grayscaledev/Developer/github.com/lab-curator/code/q12.py" TERM="tmux-256color" TTY="/dev/pts/2" COLUMNS="186" LINES="41"]
+Enter Employee Name: Arpit Shraddhansh
+Enter Employee ID: 283
+
+--- Regular Employee Details ---
+Enter Basic Salary: 90000
+Enter HRA: 233 33
+Enter DA: 900
+
+------------------------------------
+        Regular Employee Salary Receipt
+------------------------------------
+Employee Name : Arpit Shraddhansh
+Employee ID   : 283
+Salary        : Rs. 93233.0
+------------------------------------
+
+
+--- Contractual Employee Details ---
+Enter Monthly Pay: 8900
+Enter Bonus: 890
+
+------------------------------------
+        Contractual Employee Salary Receipt
+------------------------------------
+Employee Name : Arpit Shraddhansh
+Employee ID   : 283
+Salary        : Rs. 9790.0
+------------------------------------
+
+
+--- Daily-Wages Employee Details ---
+Enter Number of Days Worked: 32 0
+Enter Rate Per Day: 900
+
+------------------------------------
+        Daily-Wages Employee Salary Receipt
+------------------------------------
+Employee Name : Arpit Shraddhansh
+Employee ID   : 283
+Salary        : Rs. 27000.0
+------------------------------------
+
+
+Script done on 2026-02-18 21:07:12+05:30 [COMMAND_EXIT_CODE="0"]

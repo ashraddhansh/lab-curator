@@ -1,0 +1,5 @@
+Script started on 2026-02-18 21:08:25+05:30 [COMMAND="python3 /home/grayscaledev/Developer/github.com/lab-curator/code/q6.py" TERM="tmux-256color" TTY="/dev/pts/2" COLUMNS="186" LINES="41"]
+Enter the String: Arpit
+The user input doesn't contain the word 'KMC'
+
+Script done on 2026-02-18 21:08:27+05:30 [COMMAND_EXIT_CODE="0"]

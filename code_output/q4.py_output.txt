@@ -1,0 +1,6 @@
+Script started on 2026-02-18 21:08:48+05:30 [COMMAND="python3 /home/grayscaledev/Developer/github.com/lab-curator/code/q4.py" TERM="tmux-256color" TTY="/dev/pts/2" COLUMNS="186" LINES="41"]
+Enter the String: Hello
+The First Character of the String is:  H
+The Third Character of the String is:  l
+
+Script done on 2026-02-18 21:08:50+05:30 [COMMAND_EXIT_CODE="0"]

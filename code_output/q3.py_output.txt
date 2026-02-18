@@ -1,0 +1,9 @@
+Script started on 2026-02-18 21:08:48+05:30 [COMMAND="python3 /home/grayscaledev/Developer/github.com/lab-curator/code/q3.py" TERM="tmux-256color" TTY="/dev/pts/2" COLUMNS="186" LINES="41"]
+Apple
+Banana
+Cherry
+Mango
+Guava
+Pinapple
+
+Script done on 2026-02-18 21:08:48+05:30 [COMMAND_EXIT_CODE="0"]
