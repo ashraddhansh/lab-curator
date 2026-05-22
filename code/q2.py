@@ -1,3 +1,5 @@
-# This is Question 2
-for num in range(1,11):
-    print(num)
+# String Concatination in Python
+
+name = "Arpit"
+surname = "Shraddhansh"
+print(name, " ", surname)

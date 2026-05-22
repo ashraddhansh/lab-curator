@@ -1,7 +1,0 @@
-Script started on 2026-02-18 21:08:27+05:30 [COMMAND="python3 /home/grayscaledev/Developer/github.com/lab-curator/code/output.txt" TERM="tmux-256color" TTY="/dev/pts/2" COLUMNS="186" LINES="41"]
-  File [35m"/home/grayscaledev/Developer/github.com/lab-curator/code/output.txt"[0m, line [35m1[0m
-    Script started on 2026-[1;31m0[0m1-27 23:18:23+05:30 [COMMAND="python3 q1.py" TERM="tmux-256color" TTY="/dev/pts/9" COLUMNS="186" LINES="41"]
-                           [1;31m^[0m
-[1;35mSyntaxError[0m: [35mleading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers[0m
-
-Script done on 2026-02-18 21:08:28+05:30 [COMMAND_EXIT_CODE="1"]

@@ -1,8 +1,0 @@
-Script started on 2026-01-27 23:18:23+05:30 [COMMAND="python3 q1.py" TERM="tmux-256color" TTY="/dev/pts/9" COLUMNS="186" LINES="41"]
-Enter the Principal Amount(Rs.): 2300
-Enter the Rate Amount(%): 2 21  12
-Enter the Time(in years): 2
-The simple interest on the given amount is Rs. 552.0
-Do you want to continue(yes/no): no
-
-Script done on 2026-01-27 23:18:29+05:30 [COMMAND_EXIT_CODE="0"]

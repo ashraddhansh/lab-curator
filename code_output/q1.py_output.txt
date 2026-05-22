@@ -1,13 +1,5 @@
-Script started on 2026-02-18 21:07:30+05:30 [COMMAND="python3 /home/grayscaledev/Developer/github.com/lab-curator/code/q1.py" TERM="tmux-256color" TTY="/dev/pts/2" COLUMNS="186" LINES="41"]
-Enter the Principal Amount(Rs.): 900
-Enter the Rate Amount(%): 12
-Enter the Time(in years): 2
-The simple interest on the given amount is Rs. 216.0
-Do you want to continue(yes/no): yes
-Enter the Principal Amount(Rs.): 900
-Enter the Rate Amount(%): 6
-Enter the Time(in years): 4
-The simple interest on the given amount is Rs. 216.0
-Do you want to continue(yes/no): no
+Script started on 2026-02-18 21:17:19+05:30 [COMMAND="python3 /home/grayscaledev/Developer/github.com/lab-curator/code/q1.py" TERM="tmux-256color" TTY="/dev/pts/1" COLUMNS="186" LINES="41"]
+Hello, World
+Hello, WorldHello, WorldHello, World
 
-Script done on 2026-02-18 21:07:42+05:30 [COMMAND_EXIT_CODE="0"]
+Script done on 2026-02-18 21:17:19+05:30 [COMMAND_EXIT_CODE="0"]

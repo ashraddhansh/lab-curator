@@ -1,6 +1,9 @@
-# This is Question 3
+# For loop in python
 
-fruit_list = ["Apple", "Banana", "Cherry", "Mango", "Guava", "Pinapple"]
+for i in range(1, 10):
+    print(i)
 
-for fruit in fruit_list:
-    print(fruit)
+lst = ["Apple", "Banana", "Guava"]
+
+for item in lst:
+    print(item)
